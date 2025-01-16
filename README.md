@@ -8,7 +8,7 @@
 
 ✓ **XLTX的主页：**
 
-[B站（目前只有这一个）](https://space.bilibili.com/3546668544821656)
+[B站（首发）](https://space.bilibili.com/3546668544821656) [抖音](https://www.douyin.com/user/MS4wLjABAAAASiyfbXSxfh4IoLCa53aomaojUJnagMMb9ROvzRdAxtzr6U4HD-2kweNO8IB3L7rF?from_tab_name=main)
 
 **● 提示：如有失效链接，请务必通过私信反馈给我！！！**
 
