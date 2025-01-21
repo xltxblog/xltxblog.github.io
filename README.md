@@ -18,3 +18,66 @@
 
 
 
+##### EP1-如何搭建博客网站
+
+● Docsify（官网）：https://docsify.js.org/#/
+
+● Node.js（官网）：https://nodejs.org/zh-cn
+
+● Node.js（提取码：xltx）：https://www.123684.com/s/vNJLjv-m3bDH
+
+● Typora（官网）：https://typoraio.cn
+
+● Typora（提取码：xltx）：https://www.123684.com/s/vNJLjv-13bDH
+
+● 编辑好的README.md文件（提取码：xltx）：https://www.123684.com/s/vNJLjv-x3bDH
+
+● Github：https://github.com/
+
+○ 以下代码需要在命令提示符中输入，每输入一行按一次回车
+
+\#查看node.js有没有正确安装
+
+```
+node -v
+```
+
+\#查看npm有没有正确安装
+
+```
+npm -v
+```
+
+\#本地部署Docsify
+
+```
+npm i docsify-cli -g
+```
+
+\#初始化Docsfy本地项目
+
+```
+docsify init ./docs
+```
+
+\#启用本地网页预览
+
+```
+docsify serve docs
+```
+
+○ 以下内容需要在Github中操作
+
+\#点击"New"
+
+\#输入"Repository name"（格式：用户名.github.io）
+
+\#点击"Create repository"
+
+\#点击"Add files"→"Upload files"→"choose your files",上传"docs"文件夹中的所有文件
+
+\#点击"Commit changes"
+
+\#点击"Settings"→"Pages"，等待一会
+
+\#点击"用户名.github.io"
