@@ -14,7 +14,7 @@
 
 **扫描二维码加入QQ群（群号：1018653302）**
 
-<img src="https://picx.zhimg.com/80/v2-9c7ddc261669ba76348a93f382be2f05_1440w.jpeg" style="zoom:25%;" />
+<img src="https://picx.zhimg.com/80/v2-8d51c63a5c9e9629f5534e7561c4924a_1440w.jpeg" style="zoom:25%;" />
 
 
 
