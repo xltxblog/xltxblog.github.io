@@ -32,7 +32,7 @@
 
 ● Typora（提取码：xltx）：https://www.123684.com/s/vNJLjv-13bDH
 
-● 编辑好的README.md文件（提取码：xltx）：https://www.123684.com/s/vNJLjv-x3bDH
+● 编辑好的README.md文件（提取码：xltx）：https://www.123684.com/s/vNJLjv-SAbDH
 
 ● Github：https://github.com/
 
