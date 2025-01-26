@@ -10,13 +10,15 @@
 
 [B站（首发）](https://space.bilibili.com/3546668544821656) [抖音](https://www.douyin.com/user/MS4wLjABAAAASiyfbXSxfh4IoLCa53aomaojUJnagMMb9ROvzRdAxtzr6U4HD-2kweNO8IB3L7rF?from_tab_name=main)
 
-**● 提示：如有失效链接，请务必通过私信反馈给我！！！**
-
 **扫描二维码加入QQ群（群号：1028096082）**
 
 <img src="https://picx.zhimg.com/80/v2-8d51c63a5c9e9629f5534e7561c4924a_1440w.jpeg" style="zoom:25%;" />
 
 
+
+<font color='RedOrange'>**● 提示：如有失效链接，请务必通过私信反馈给我！！！**</font>
+
+<font color='RedOrange'>**● 注意！请将附件先转存到自己网盘再下载！！！避免文件被和谐！！！**</font>
 
 ##### EP1-如何搭建博客网站
 
