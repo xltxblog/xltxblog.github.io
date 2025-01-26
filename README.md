@@ -12,7 +12,7 @@
 
 **扫描二维码加入QQ群（群号：1028096082）**
 
-<img src="https://ooo.0x0.ooo/2025/01/26/OGymLG.png" style="zoom:25%;" />
+<img src="https://picx.zhimg.com/80/v2-8d51c63a5c9e9629f5534e7561c4924a_1440w.jpeg" style="zoom:25%;" />
 
 
 
