@@ -72,7 +72,7 @@ docsify serve docs
 
 \#点击"New"
 
-\#输入"Repository name"（格式：用户名.github.io）
+\#输入"Repository name"（格式：你的用户名.github.io）
 
 \#点击"Create repository"
 
@@ -82,4 +82,4 @@ docsify serve docs
 
 \#点击"Settings"→"Pages"，等待一会
 
-\#点击"用户名.github.io"
+\#点击"你的用户名.github.io"
