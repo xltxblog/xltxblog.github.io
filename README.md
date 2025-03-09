@@ -20,7 +20,7 @@
 
 <font color='RedOrange'>**● 注意！请将附件先转存到自己网盘再下载！！！避免文件被和谐！！！**</font>
 
-##### EP1-如何搭建博客网站
+##### EP1-如何搭建网站？个人网站搭建指南
 
 ● Docsify（官网）：https://docsify.js.org/#/
 
